@@ -1,0 +1,45 @@
+{
+	"pattrstorage" : 	{
+		"name" : "subpatcher",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"example::table" : [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+					"TablePatch::table" : [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"example::table" : [ 7, 7, 7, 7, 7, 7, 7, 7 ],
+					"TablePatch::table" : [ 7, 7, 7, 7, 7, 7, 7, 7 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"example::table" : [ 4, 4, 4, 4, 4, 4, 4, 4 ],
+					"TablePatch::table" : [ 4, 4, 4, 4, 4, 4, 4, 4 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"example::table" : [ 1, 2, 3, 4, 5, 5, 6, 7 ],
+					"TablePatch::table" : [ 0, 1, 2, 3, 4, 5, 6, 7 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

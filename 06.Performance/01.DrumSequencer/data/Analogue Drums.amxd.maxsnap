@@ -1,0 +1,41 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Analogue Drums.amxd",
+	"origin" : "Analogue Drums.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Analogue Drums.amxd",
+		"origname" : "C74:/packages/Max for Live/patchers/Max Instrument/Analogue Drums/Analogue Drums.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"ad-level" : 0.0,
+				"clhat-decay" : 200.0,
+				"hat-level" : 80.0,
+				"hat-tone" : 50.0,
+				"kick-attack" : 30.0,
+				"kick-decay" : 800.0,
+				"kick-level" : 35.0,
+				"kick-sweep" : 20.0,
+				"kick-tune" : 70.0,
+				"ophat-decay" : 1800.0,
+				"snare-decay" : 1000.0,
+				"snare-hicut" : 700.0,
+				"snare-level" : 50.0,
+				"snare-snap" : 40.0,
+				"snare-tune" : 250.0,
+				"tom-decay" : 600.0,
+				"tom-hi" : 450.0,
+				"tom-level" : 64.0,
+				"tom-low" : 100.0,
+				"tom-mid" : 200.0
+			}
+
+		}
+
+	}
+
+}

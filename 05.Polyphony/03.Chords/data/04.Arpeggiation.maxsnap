@@ -1,0 +1,122 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "04.Arpeggiation",
+	"origin" : "04.Arpeggiation",
+	"type" : "patcher",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"live.button" : 1.0,
+				"live.button[1]" : 0.0,
+				"live.button[2]" : 1.0,
+				"live.button[3]" : 0.0,
+				"live.button[5]" : 0.0,
+				"live.button[6]" : 0.0,
+				"live.menu" : 0.0,
+				"live.menu[10]" : 0.0,
+				"live.menu[1]" : 1.0,
+				"live.menu[2]" : 0.0,
+				"live.menu[3]" : 13.0,
+				"live.menu[4]" : 0.0,
+				"live.menu[5]" : 3.0,
+				"live.menu[8]" : 1.0,
+				"live.menu[9]" : 5.0,
+				"live.numbox" : 120.0,
+				"live.numbox[1]" : 1.0,
+				"live.numbox[2]" : 0.0,
+				"live.numbox[3]" : 1.0,
+				"live.numbox[4]" : 67.0,
+				"live.numbox[5]" : 101.0,
+				"live.numbox[6]" : 120.0,
+				"live.numbox[7]" : 1.0,
+				"live.toggle" : 1.0,
+				"blob" : 				{
+					"amxd~" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "Additive Heaven.amxd",
+							"origin" : "Additive Heaven.amxd",
+							"type" : "amxd",
+							"subtype" : "Undefined",
+							"embed" : 1,
+							"snapshot" : 							{
+								"name" : "Additive Heaven.amxd",
+								"origname" : "C74:/packages/Max for Live/patchers/Max Instrument/Additive Heaven/Additive Heaven.amxd",
+								"valuedictionary" : 								{
+									"parameter_values" : 									{
+										"attack" : 1.0,
+										"decay" : 109.0,
+										"env_curve" : 0.1,
+										"harm_num_2" : 12.0,
+										"harm_num_3" : 39.0,
+										"harm_num_4" : 8.0,
+										"harm_num_5" : 25.0,
+										"harm_num_6" : 102.0,
+										"harm_num_7" : 103.0,
+										"harm_num_8" : 39.0,
+										"harm_val_2" : 0.98,
+										"harm_val_3" : 3.0,
+										"harm_val_4" : 0.66,
+										"harm_val_5" : 1.98,
+										"harm_val_6" : 8.0,
+										"harm_val_7" : 8.02,
+										"harm_val_8" : 3.0,
+										"harmonic_2" : 12.0,
+										"harmonic_3" : 39.0,
+										"harmonic_4" : 8.0,
+										"harmonic_5" : 25.0,
+										"harmonic_6" : 102.0,
+										"harmonic_7" : 103.0,
+										"harmonic_8" : 39.0,
+										"level" : 0.0,
+										"pan_1" : 33.0,
+										"pan_2" : -16.0,
+										"pan_3" : -8.0,
+										"pan_4" : 4.0,
+										"pan_5" : -21.0,
+										"pan_6" : 19.0,
+										"pan_7" : -51.0,
+										"pan_8" : 56.0,
+										"polyphony" : 16.0,
+										"release" : 10.0,
+										"sustain" : 100.0,
+										"vol_harm" : 0.0,
+										"vol_num_1" : 127.0,
+										"vol_num_2" : 46.0,
+										"vol_num_3" : 28.0,
+										"vol_num_4" : 30.0,
+										"vol_num_5" : 55.0,
+										"vol_num_6" : 62.0,
+										"vol_num_7" : 30.0,
+										"vol_num_8" : 42.0,
+										"volume_1" : 127.0,
+										"volume_2" : 46.0,
+										"volume_3" : 28.0,
+										"volume_4" : 30.0,
+										"volume_5" : 55.0,
+										"volume_6" : 62.0,
+										"volume_7" : 30.0,
+										"volume_8" : 42.0
+									}
+
+								}
+
+							}
+
+						}
+ ],
+					"live.step" : [ 4, 4, 0, 4, 0, 4, 0, 4, 0, 1, 12, 0, 4, 59.0, 80.0, 0, 0, 67, 101, 4, 127, 127, 62, 83, 4, 127, 127, 60, 57, 4, 127, 127, 63, 78, 4, 127, 127, 1, 12, 0, 4, 48.0, 71.0, 0, 0, 70, 20, 4, 88, 82, 65, 83, 4, 90, 94, 63, 98, 4, 54, 77, 67, 47, 4, 21, 96, 1, 12, 0, 4, 48.0, 71.0, 0, 0, 74, 5, 4, 33, 35, 68, 112, 4, 20, 98, 67, 71, 4, 37, 57, 70, 51, 4, 9, 68, 1, 12, 0, 4, 48.0, 71.0, 0, 0, 77, 34, 4, 43, 67, 72, 117, 4, 17, 111, 70, 126, 4, 2, 6, 74, 112, 4, 83, 111 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
